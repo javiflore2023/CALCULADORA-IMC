@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #formulario {
+    margin: 20px auto;
+    width: 300px;
+  }
+  
+  #formulario label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  #formulario input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+  }
+  
+  #resultados {
+    margin-top: 20px;
+    font-weight: bold;
+  }
